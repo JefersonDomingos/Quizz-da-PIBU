@@ -26,7 +26,7 @@ basta apenas abrir um navegador de sua preferência e acessar o link abaixo:
 [Quizz sobre cozinhar](https://jefersondomingos.github.io/Quizz-sobre-cozinhar/)
 
 ## Autor
-Jeferson Domingos Martins
+Jeferson Domingos
 
 - [LinkedIn](https://www.linkedin.com/in/jefersondomingos)</br>
 - [GitHub](https://github.com/JefersonDomingos)
