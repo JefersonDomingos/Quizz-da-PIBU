@@ -80,7 +80,7 @@ const questions = [
             },
 
             {
-                "answer" : "Tiago João",
+                "answer" : "Tiago e João",
                 "correct" : true
             }
 
