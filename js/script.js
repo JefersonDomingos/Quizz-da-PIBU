@@ -413,7 +413,7 @@ function messageFeedback (answersCorrects){
     }
     
     else if(acertos == 10){
-        return messageCongratulations.textContent = "Crentão em. kkk continue assim"
+        return messageCongratulations.textContent = "Crentão em kkkkkk, continue assim"
     }
 
   
